@@ -34,3 +34,5 @@ build/
 
 # Ignore mvn folder
 .mvn/
+
+src/test
